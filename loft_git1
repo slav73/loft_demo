@@ -11,7 +11,7 @@ $git config --list
 
 $git help
 
-// 02 - gпервые коммиты
+// 02 - первые коммиты
 
 $git init
 Initialized empty Git repository in /Users/admin/git/.git/
@@ -30,4 +30,9 @@ $git add .
 $git commit -m 'first commit'
 
 Это основа
+
+// 03 - работаем с GitHub
+
+Snapshot - слепок директорий
+
 
