@@ -26,4 +26,8 @@ Initialized empty Git repository in /Users/admin/git/.git/
 
 'git status' = тек состояние репозитория
 
+$git add .
+$git commit -m 'first commit'
+
+Это основа
 
